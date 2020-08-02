@@ -4,6 +4,6 @@
 Welcome to my read me!
 
 This work was done as part of a database course and it deals with the subject MySQL,stored procedure, View, Trigger, Relational algebra, normalization.
-worked with a the Schema called: hmo which is also in this repository.
+I worked with a Schema called: hmo which is also in this repository.
 
 I invite you to download it to your work environment and try to solve the exercises, of course you can compare with my answers :)
